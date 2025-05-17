@@ -1,0 +1,37 @@
+[
+  {
+    "songName": "Lofi Chill Beats",
+    "songArtist": "Unknown Artist",
+    "songSrc": 0,
+    "songAvatar": "third",
+    "length": "03:29"
+  },
+  {
+    "songName": "Dreamy Vibes",
+    "songArtist": "Artist 2",
+    "songSrc": 1,
+    "songAvatar": "first",
+    "length": "04:12"
+  },
+  {
+    "songName": "Night Walk",
+    "songArtist": "Artist 3",
+    "songSrc": 2,
+    "songAvatar": "second",
+    "length": "02:58"
+  },
+  {
+    "songName": "Walk",
+    "songArtist": "Artist 4",
+    "songSrc": 3,
+    "songAvatar": "fourth",
+    "length": "05:10"
+  },
+  {
+    "songName": "alk",
+    "songArtist": "Artist 5",
+    "songSrc": 4,
+    "songAvatar": "fifth",
+    "length": "00:58"
+  }
+]
